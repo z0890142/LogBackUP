@@ -1,0 +1,56 @@
+{
+  "LogSN": "7afbe54a-320c-410a-b6e0-10e358b1649e",
+  "PackageName": "main",
+  "file": "/home/skyler/go/src/AlarmMonitor/main.go:21",
+  "func": "main.init.0",
+  "level": "info",
+  "msg": "AlarmMonitor version 2.0.4",
+  "time": "2020-11-02T10:15:36.158325"
+}
+{
+  "LogSN": "7afbe54a-320c-410a-b6e0-10e358b1649e",
+  "PackageName": "main",
+  "file": "/home/skyler/go/src/AlarmMonitor/main.go:50",
+  "func": "main.InitConfig",
+  "level": "info",
+  "msg": "Using config file:/home/skyler/go/src/AlarmMonitor/config/config.yaml",
+  "time": "2020-11-02T10:15:36.159407"
+}
+{
+  "LogSN": "7afbe54a-320c-410a-b6e0-10e358b1649e",
+  "PackageName": "main",
+  "error": "dial tcp 127.0.0.1:3306: connect: connection refused",
+  "file": "/home/skyler/go/src/AlarmMonitor/helper/DB/DB.go:29",
+  "func": "AlarmMonitor/helper/DB.CreateDbConn",
+  "level": "error",
+  "msg": "CreateDbConn error",
+  "time": "2020-11-02T10:15:36.159713"
+}
+{
+  "LogSN": "789c0027-9767-4f2a-b3df-4ddda92e89cc",
+  "PackageName": "main",
+  "file": "/home/skyler/go/src/AlarmMonitor/main.go:21",
+  "func": "main.init.0",
+  "level": "info",
+  "msg": "AlarmMonitor version 2.0.4",
+  "time": "2020-11-02T16:24:52.503258"
+}
+{
+  "LogSN": "789c0027-9767-4f2a-b3df-4ddda92e89cc",
+  "PackageName": "main",
+  "file": "/home/skyler/go/src/AlarmMonitor/main.go:50",
+  "func": "main.InitConfig",
+  "level": "info",
+  "msg": "Using config file:/home/skyler/go/src/AlarmMonitor/config/config.yaml",
+  "time": "2020-11-02T16:24:52.507217"
+}
+{
+  "LogSN": "789c0027-9767-4f2a-b3df-4ddda92e89cc",
+  "PackageName": "main",
+  "error": "dial tcp 127.0.0.1:3306: connect: connection refused",
+  "file": "/home/skyler/go/src/AlarmMonitor/helper/DB/DB.go:29",
+  "func": "AlarmMonitor/helper/DB.CreateDbConn",
+  "level": "error",
+  "msg": "CreateDbConn error",
+  "time": "2020-11-02T16:24:52.508518"
+}

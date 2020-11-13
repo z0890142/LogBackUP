@@ -1,0 +1,28 @@
+{
+  "LogSN": "16e8ab22-c8e3-4e22-8f38-1186ff549011",
+  "PackageName": "main",
+  "file": "/home/skyler/go/src/device/main.go:36",
+  "func": "main.init.0",
+  "level": "info",
+  "msg": "DeviceMetaData version 20200512v1",
+  "time": "2020-11-03T13:45:14.247400"
+}
+{
+  "LogSN": "16e8ab22-c8e3-4e22-8f38-1186ff549011",
+  "PackageName": "main",
+  "file": "/home/skyler/go/src/device/main.go:66",
+  "func": "main.InitConfig",
+  "level": "info",
+  "msg": "Using config file:/home/skyler/go/src/device/config/config.yaml",
+  "time": "2020-11-03T13:45:14.248699"
+}
+{
+  "LogSN": "16e8ab22-c8e3-4e22-8f38-1186ff549011",
+  "PackageName": "main",
+  "error": "dial tcp 127.0.0.1:3306: connect: connection refused",
+  "file": "/home/skyler/go/src/device/helper/DB/DB.go:26",
+  "func": "device/helper/DB.CreateDbConn",
+  "level": "error",
+  "msg": "CreateDbConn error",
+  "time": "2020-11-03T13:45:14.248985"
+}
